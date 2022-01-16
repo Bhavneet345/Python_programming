@@ -80,15 +80,3 @@ if __name__ == '__main__':
     elif "open pycharm" in query:
         path = "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\JetBrains"
         os.startfile(path)
-
-
-
-
-
-
-
-
-
-
-
-
